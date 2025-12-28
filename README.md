@@ -79,7 +79,7 @@ A comprehensive full-stack dashboard built to demonstrate advanced React concept
   └── index.html     # Entry point
 ```
 
-## 📚 Interview Preparation value
+## 📚 Preparation value
 This project serves as a perfect reference for:
 - Explaining the difference between **Context API** and **Redux**.
 - Demonstrating **Optimization** via `useMemo` and `useCallback`.
@@ -88,4 +88,4 @@ This project serves as a perfect reference for:
 - Connecting **Frontend to a real relational database**.
 
 ---
-Developed for Reference and Interview Preparation.
+Developed for Reference and Preparation.
